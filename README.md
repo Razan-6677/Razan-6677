@@ -24,22 +24,20 @@ I am a Computer Science student at Taibah University with a strong passion for r
 **Open-Source Humanoid Robot (InMoov)**
 * **Description:** Working on the mechanical build and physical computing for the InMoov open-source 3D-printed robot.
 * **Current Focus:** Assembled the right-side robotic arm component and analyzing motor behaviors under web control interfaces.
+* **Links:** [📸 View Project on X](https://x.com/razanl01/status/2034987068367999301?s=61)
 
 **Obstacle-Avoidance Robot Car**
 * **Description:** Built and programmed a smart car capable of detecting and autonomously navigating around physical obstacles using Arduino/Nano microcontrollers.
+* **Links:** [📸 View Project on X](https://x.com/razanl01/status/2019736459104891151?s=61)
 
 **Web & Desktop Scientific Calculator**
 * **Description:** Started as my first Programming 1 Java project, which I later converted into an accessible HTML web version.
 * **Links:** [Source Code](https://github.com/Razan-6677/CalculatorApplication) | [Live Website](https://calculatorapplication-app.netlify.app) | [📸 View Screenshots on X](https://x.com/razanl01/status/2016853723004260719?s=61)
-<br>
-<img src="حطي_رابط_صورة_الحاسبة_المباشر_هنا" width="400">
 
 **Veterinary Clinic System**
 * **Description:** A desktop application developed as a Level 4 team project.
 * **Tech Stack:** JavaFX, OOP concepts, and Text Files for data storage.
 * **Links:** [Source Code](https://github.com/Razan-6677/Vet-Staff-System) | [📸 View Screenshots on X](https://x.com/razanl01/status/2017377619118068025?s=61)
-<br>
-<img src="حطي_رابط_صورة_العيادة_المباشر_هنا" width="400">
 
 ---
 
