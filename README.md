@@ -71,5 +71,8 @@ I am a Computer Science student at Taibah University with a strong passion for r
 ---
 
 ### 📫 Let's Connect!
-* **Email:** [اضيفي ايميلك هنا]
+* **Email:** [razank767@gmail.com](mailto:razank767@gmail.com)
+* **LinkedIn:** [Razan Khaled](https://www.linkedin.com/in/razan-khalid-al-harbi-223322226)
+* **X (Twitter):** [@RAZANl01](https://x.com/razanl01?s=11)
 * **Languages:** Arabic (Native), English (Intermediate)
+
