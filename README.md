@@ -30,12 +30,16 @@ I am a Computer Science student at Taibah University with a strong passion for r
 
 **Web & Desktop Scientific Calculator**
 * **Description:** Started as my first Programming 1 Java project, which I later converted into an accessible HTML web version.
-* **Links:** [Source Code](https://github.com/Razan-6677/CalculatorApplication) | [Live Website](https://calculatorapplication-app.netlify.app)
+* **Links:** [Source Code](https://github.com/Razan-6677/CalculatorApplication) | [Live Website](https://calculatorapplication-app.netlify.app) | [📸 View Screenshots on X](https://x.com/razanl01/status/2016853723004260719?s=61)
+<br>
+<img src="حطي_رابط_صورة_الحاسبة_المباشر_هنا" width="400">
 
 **Veterinary Clinic System**
 * **Description:** A desktop application developed as a Level 4 team project.
 * **Tech Stack:** JavaFX, OOP concepts, and Text Files for data storage.
-* **Links:** [Source Code](https://github.com/Razan-6677/Vet-Staff-System)
+* **Links:** [Source Code](https://github.com/Razan-6677/Vet-Staff-System) | [📸 View Screenshots on X](https://x.com/razanl01/status/2017377619118068025?s=61)
+<br>
+<img src="حطي_رابط_صورة_العيادة_المباشر_هنا" width="400">
 
 ---
 
@@ -75,4 +79,3 @@ I am a Computer Science student at Taibah University with a strong passion for r
 * **LinkedIn:** [Razan Khaled](https://www.linkedin.com/in/razan-khalid-al-harbi-223322226)
 * **X (Twitter):** [@RAZANl01](https://x.com/razanl01?s=11)
 * **Languages:** Arabic (Native), English (Intermediate)
-
